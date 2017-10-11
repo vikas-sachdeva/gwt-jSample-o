@@ -14,7 +14,7 @@ public class XmlDataService extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
 
-	private static final String FILE_PATH = "F:/mine/eclipse/repo/gwt-jSample-workspace/Dynamic_XML_Tree/Dynamic_XML_Tree-server/input/sample.xml";
+	private static final String FILE_PATH = "F:/mine/eclipse/repo/gwt-jSample/Dynamic_XML_Tree/Dynamic_XML_Tree-server/input/sample.xml";
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
